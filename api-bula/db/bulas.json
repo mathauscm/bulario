@@ -1,0 +1,1031 @@
+[
+  {
+    "medicamento": "Ibuprofeno",
+    "fabricante": "Geolab Indústria Farmacêutica S/A",
+    "forma_farmaceutica": "Cápsula mole",
+    "apresentacao": "400 mg - Embalagem contendo 8 ou 40 cápsulas moles",
+    "uso": ["Adulto", "Pediátrico acima de 12 anos"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "ibuprofeno 400 mg",
+      "excipientes": [
+        "macrogol",
+        "hidróxido de potássio",
+        "gelatina",
+        "sorbitana anidra",
+        "manitol",
+        "sorbitol",
+        "corante vermelho azorrubina",
+        "corante vermelho Bordeaux",
+        "água purificada"
+      ]
+    },
+    "indicacoes": [
+      "Alívio temporário da febre",
+      "Cefaleia tensional",
+      "Lombalgia",
+      "Dor muscular",
+      "Enxaqueca",
+      "Dismenorreia",
+      "Gripes e resfriados comuns",
+      "Artrite",
+      "Dor de dente"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade ao ibuprofeno ou a qualquer excipiente",
+      "História de reações alérgicas graves a AINEs"
+    ],
+    "advertencias_precaucoes": [
+      "Pode causar efeitos gastrointestinais graves",
+      "Cautela em pacientes com insuficiência hepática ou renal",
+      "Pode mascarar sinais de infecção"
+    ],
+    "posologia": {
+      "adultos": "400 mg a cada 6 a 8 horas, conforme necessidade (máx. 3200 mg/dia)",
+      "criancas": "não recomendado abaixo de 12 anos"
+    },
+    "reações_adversas": {
+      "comuns": [
+        "náusea",
+        "dispepsia",
+        "diarreia",
+        "dor abdominal",
+        "tontura",
+        "rash cutâneo"
+      ],
+      "incomuns": ["insônia", "urticária", "hipertensão"],
+      "raras": ["úlcera péptica", "sangramento gastrointestinal", "anafilaxia"]
+    },
+    "superdose": {
+      "sintomas": [
+        "náusea",
+        "vômito",
+        "dor abdominal",
+        "sonolência",
+        "tontura",
+        "coma em casos graves"
+      ],
+      "tratamento": "suporte sintomático; não existe antídoto específico"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "não informado na bula",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Omeprazol",
+    "fabricante": "Hipolabor Farmacêutica Ltda.",
+    "forma_farmaceutica": "Cápsula dura",
+    "apresentacao": "20 mg - Caixa contendo 500 cápsulas",
+    "uso": ["Adulto", "Pediátrico"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "omeprazol 20 mg",
+      "excipientes": [
+        "manitol",
+        "sacarose",
+        "fosfato de sódio dibásico",
+        "carbonato de cálcio",
+        "laurilsulfato de sódio",
+        "hipromelose",
+        "copolímero de ácido metacrílico e metacrilato de metila",
+        "ftalato de etila",
+        "dióxido de titânio",
+        "talco",
+        "polissorbato 80",
+        "hidróxido de sódio"
+      ]
+    },
+    "indicacoes": [
+      "Tratamento de úlceras pépticas benignas (gástricas ou duodenais)",
+      "Esofagite de refluxo",
+      "Estados de hiperacidez gástrica",
+      "Prevenção de recidivas de úlceras gástricas ou duodenais",
+      "Síndrome de Zollinger-Ellison",
+      "Erradicação de Helicobacter pylori em terapia múltipla",
+      "Proteção da mucosa gástrica contra danos por AINEs",
+      "Esofagite de refluxo em crianças > 1 ano"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade ao omeprazol ou excipientes",
+      "Síndrome de má-absorção de glicose-galactose",
+      "Insuficiência de sacarose-isomaltase"
+    ],
+    "advertencias_precaucoes": [
+      "Risco de gastrite atrófica em uso prolongado",
+      "Pode mascarar sintomas de câncer gástrico",
+      "Ajuste em pacientes com disfunção hepática",
+      "Contém sacarose (cuidado em diabéticos)",
+      "Categoria de risco na gravidez: C"
+    ],
+    "posologia": {
+      "adultos": {
+        "ulceras_duodenais": "20 mg 1x/dia por 2 a 4 semanas",
+        "ulceras_gastricas_esofagite": "20 mg 1x/dia por 4 a 8 semanas",
+        "profilaxia": "10 a 20 mg antes do café da manhã",
+        "zollinger_ellison": "60 mg inicial, podendo ajustar"
+      },
+      "criancas": {
+        "acima_1_ano": "10 mg/dia",
+        "acima_20kg": "20 mg/dia (máx. 40 mg)"
+      }
+    },
+    "reações_adversas": {
+      "comuns": [
+        "cefaleia",
+        "diarreia",
+        "constipação",
+        "dor abdominal",
+        "náusea",
+        "flatulência",
+        "vômito",
+        "infecção do trato respiratório superior",
+        "tontura",
+        "rash",
+        "astenia"
+      ],
+      "incomuns": [
+        "parestesia",
+        "sonolência",
+        "insônia",
+        "vertigem",
+        "aumento de enzimas hepáticas",
+        "urticária"
+      ],
+      "raras": [
+        "confusão mental reversível",
+        "agitação",
+        "depressão",
+        "alucinações",
+        "ginecomastia",
+        "trombocitopenia",
+        "hepatite",
+        "alopecia",
+        "anafilaxia"
+      ]
+    },
+    "superdose": {
+      "dose_tolerada": "até 160 mg em dose única",
+      "relatos": "até 2400 mg",
+      "sintomas": [
+        "confusão",
+        "sonolência",
+        "visão embaçada",
+        "taquicardia",
+        "náusea",
+        "vômito"
+      ],
+      "tratamento": "suporte e sintomático (sem antídoto específico)"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "1.1343.0173",
+    "responsavel_tecnico": "Dr. Renato Silva (CRF-MG: 10.042)",
+    "sac": "0800 031 1133",
+    "tarja": "Venda sob prescrição"
+  },
+  {
+    "medicamento": "Azitromicina di-hidratada",
+    "fabricante": "Pharlab Indústria Farmacêutica S.A.",
+    "forma_farmaceutica": "Comprimido revestido",
+    "apresentacao": "500 mg - Embalagens com 3 ou 5 comprimidos revestidos",
+    "uso": ["Adulto", "Pediátrico acima de 45 kg"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "azitromicina di-hidratada 524,144 mg (equivalente a 500 mg de azitromicina base)",
+      "excipientes": [
+        "talco",
+        "croscarmelose sódica",
+        "povidona",
+        "estearato de magnésio",
+        "celulose microcristalina",
+        "laurilsulfato de sódio",
+        "amido",
+        "hipromelose",
+        "macrogol",
+        "polissorbato 80",
+        "dióxido de titânio"
+      ]
+    },
+    "indicacoes": [
+      "Infecções do trato respiratório inferior (bronquite, pneumonia)",
+      "Infecções do trato respiratório superior (sinusite, faringite, amigdalite)",
+      "Otite média aguda",
+      "Infecções da pele e tecidos moles",
+      "Doenças sexualmente transmissíveis (clamídia, cancro mole, gonorreia não complicada)"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade à azitromicina, eritromicina ou outros macrolídeos"
+    ],
+    "advertencias_precaucoes": [
+      "Risco de hepatotoxicidade",
+      "Pode prolongar o intervalo QT",
+      "Usar com cautela em pacientes com insuficiência hepática"
+    ],
+    "posologia": {
+      "adultos": "500 mg 1x/dia por 3 dias ou conforme indicação médica",
+      "criancas": "10 mg/kg/dia (esquema variável conforme idade e indicação)"
+    },
+    "reações_adversas": {
+      "comuns": ["náusea", "diarreia", "dor abdominal", "vômito", "cefaleia"],
+      "incomuns": ["palpitações", "reações alérgicas leves", "insônia"],
+      "raras": [
+        "reações anafiláticas",
+        "hepatite colestática",
+        "arritmia ventricular"
+      ]
+    },
+    "superdose": {
+      "sintomas": ["náusea", "diarreia", "vômito"],
+      "tratamento": "suporte e sintomático"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "não informado",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Allegra D",
+    "fabricante": "Opella Healthcare Brazil Ltda.",
+    "forma_farmaceutica": "Comprimido revestido de liberação prolongada",
+    "apresentacao": "60 mg + 120 mg - Embalagem com 10 comprimidos",
+    "uso": ["Adulto", "Pediátrico acima de 12 anos"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "cloridrato de fexofenadina 60 mg + cloridrato de pseudoefedrina 120 mg",
+      "excipientes": [
+        "celulose microcristalina",
+        "amido de milho pré-gelatinizado",
+        "croscarmelose sódica",
+        "estearato de magnésio",
+        "cera de carnaúba",
+        "ácido esteárico",
+        "dióxido de silício",
+        "hipromelose",
+        "macrogol 400",
+        "macrogol 8000"
+      ]
+    },
+    "indicacoes": [
+      "Rinite alérgica com congestão nasal",
+      "Alívio temporário da congestão nasal decorrente do resfriado comum em pacientes com rinite alérgica"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade à fexofenadina, pseudoefedrina ou excipientes",
+      "Uso concomitante com inibidores da MAO",
+      "Pacientes hipertensos graves ou com doença cardíaca grave"
+    ],
+    "advertencias_precaucoes": [
+      "Cautela em pacientes com glaucoma, hipertensão, diabetes, hipertireoidismo",
+      "Pode causar insônia e agitação",
+      "Evitar uso em gestantes e lactantes sem orientação médica"
+    ],
+    "posologia": {
+      "adultos": "1 comprimido a cada 12 horas",
+      "criancas": "não recomendado abaixo de 12 anos"
+    },
+    "reações_adversas": {
+      "comuns": ["cefaleia", "boca seca", "insônia", "nervosismo"],
+      "incomuns": ["taquicardia", "palpitações", "tremores"],
+      "raras": ["reações alérgicas graves", "hipertensão severa"]
+    },
+    "superdose": {
+      "sintomas": ["sonolência", "taquicardia", "hipertensão"],
+      "tratamento": "suporte e sintomático"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "não informado",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Allegra",
+    "fabricante": "Opella Healthcare Brazil Ltda.",
+    "forma_farmaceutica": "Comprimido revestido",
+    "apresentacao": "60 mg (embalagem com 10), 120 mg (embalagem com 2, 10 ou 20), 180 mg (embalagem com 10)",
+    "uso": ["Adulto", "Pediátrico acima de 12 anos"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "cloridrato de fexofenadina 60 mg, 120 mg ou 180 mg",
+      "excipientes": [
+        "celulose microcristalina",
+        "amido de milho pré-gelatinizado",
+        "croscarmelose sódica",
+        "estearato de magnésio",
+        "hipromelose",
+        "povidona",
+        "dióxido de titânio",
+        "dióxido de silício",
+        "macrogol 400",
+        "óxido de ferro rosa",
+        "óxido de ferro amarelo"
+      ]
+    },
+    "indicacoes": [
+      "Tratamento de manifestações alérgicas (rinite alérgica, conjuntivite alérgica, febre do feno)",
+      "Tratamento da urticária"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade ao cloridrato de fexofenadina ou excipientes"
+    ],
+    "advertencias_precaucoes": [
+      "Pode causar sonolência em alguns pacientes",
+      "Usar com cautela em pacientes idosos ou com insuficiência renal",
+      "Evitar uso sem orientação médica em gestantes e lactantes"
+    ],
+    "posologia": {
+      "adultos": "60 mg a cada 12 horas ou 120/180 mg 1x ao dia, conforme indicação",
+      "criancas": "não recomendado abaixo de 12 anos"
+    },
+    "reações_adversas": {
+      "comuns": ["cefaleia", "tontura", "sonolência", "náusea"],
+      "incomuns": ["fadiga", "insônia"],
+      "raras": ["reações alérgicas graves"]
+    },
+    "superdose": {
+      "sintomas": ["tontura", "sonolência"],
+      "tratamento": "suporte sintomático"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "não informado",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Amoxicilina tri-hidratada",
+    "fabricante": "não informado",
+    "forma_farmaceutica": "Pó para suspensão oral",
+    "apresentacao": "250 mg/5 mL e 500 mg/5 mL - Frasco com 150 mL (após reconstituição) + copo dosador",
+    "uso": ["Adulto", "Pediátrico"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "amoxicilina tri-hidratada 287 mg (250 mg base) ou 574 mg (500 mg base) a cada 5 mL",
+      "excipientes": [
+        "dióxido de silício",
+        "benzoato de sódio",
+        "corante eritrosina",
+        "goma xantana",
+        "citrato de sódio di-hidratado",
+        "aroma de tutti frutti/guaraná",
+        "sacarose",
+        "estearato de magnésio"
+      ]
+    },
+    "indicacoes": [
+      "Otite média aguda",
+      "Rinossinusite bacteriana",
+      "Faringoamigdalite estreptocócica",
+      "Pneumonia adquirida na comunidade",
+      "Infecções do trato urinário",
+      "Bronquiectasia",
+      "Gonorreia não complicada"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade às penicilinas",
+      "História de reação alérgica grave a antibióticos beta-lactâmicos"
+    ],
+    "advertencias_precaucoes": [
+      "Risco de reações alérgicas graves",
+      "Pode causar diarreia associada a Clostridium difficile",
+      "Usar com cautela em pacientes com insuficiência renal"
+    ],
+    "posologia": {
+      "adultos": "500 mg a cada 8 horas ou conforme indicação médica",
+      "criancas": "40 a 90 mg/kg/dia divididos em 2 a 3 doses"
+    },
+    "reações_adversas": {
+      "comuns": ["náusea", "diarreia", "rash cutâneo"],
+      "incomuns": ["candidíase oral/vaginal", "urticária"],
+      "raras": ["anafilaxia", "colite pseudomembranosa", "hepatite"]
+    },
+    "superdose": {
+      "sintomas": ["náusea", "vômito", "diarreia", "cristalúria"],
+      "tratamento": "suporte sintomático; hemodiálise pode ajudar na eliminação"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC (antes de reconstituição)",
+      "protecao": "luz e umidade",
+      "validade": "24 meses (frasco fechado); após reconstituição, 14 dias sob refrigeração"
+    },
+    "registro": "não informado",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Amoxicilina + Clavulanato de Potássio",
+    "fabricante": "Cellera Farmacêutica S.A.",
+    "forma_farmaceutica": "Comprimido revestido",
+    "apresentacao": "875 mg + 125 mg - Frascos com 14 ou 20 comprimidos revestidos",
+    "uso": ["Adulto"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "amoxicilina tri-hidratada 1004,5 mg (equivalente a 875 mg de amoxicilina anidra) + clavulanato de potássio 148,87 mg (equivalente a 125 mg de ácido clavulânico)",
+      "excipientes": [
+        "dióxido de silício",
+        "estearato de magnésio",
+        "povidona",
+        "celulose microcristalina",
+        "dióxido de titânio",
+        "hipromelose",
+        "macrogol"
+      ]
+    },
+    "indicacoes": [
+      "Sinusite",
+      "Otite média",
+      "Tonsilite recorrente",
+      "Broncopneumonia",
+      "Exacerbações de bronquite crônica",
+      "Infecções urinárias complicadas ou recorrentes",
+      "Infecções de pele e tecidos moles (celulite, abscessos, mordidas de animais)"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade a penicilinas ou cefalosporinas",
+      "Histórico de icterícia colestática associada ao uso de amoxicilina + clavulanato"
+    ],
+    "advertencias_precaucoes": [
+      "Pode causar diarreia associada a antibióticos",
+      "Ajustar dose em insuficiência renal",
+      "Monitorar função hepática em uso prolongado"
+    ],
+    "posologia": {
+      "adultos": "1 comprimido (875 mg + 125 mg) a cada 12 horas"
+    },
+    "reações_adversas": {
+      "comuns": ["náusea", "diarreia", "vômito"],
+      "incomuns": ["rash cutâneo", "urticária"],
+      "raras": ["anafilaxia", "icterícia colestática", "hepatite"]
+    },
+    "superdose": {
+      "sintomas": ["distúrbios gastrointestinais", "cristalúria"],
+      "tratamento": "suporte sintomático; hemodiálise pode remover a droga"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "não informado",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Cefalexina",
+    "fabricante": "não informado",
+    "forma_farmaceutica": "Comprimido revestido",
+    "apresentacao": "500 mg - Embalagens com 8, 10, 20 ou 200 comprimidos",
+    "uso": ["Adulto"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "cefalexina monoidratada 525,91 mg (equivalente a 500 mg de cefalexina anidra)",
+      "excipientes": [
+        "celulose microcristalina",
+        "amido pré-gelatinizado",
+        "dióxido de silício",
+        "estearato de magnésio",
+        "hipromelose",
+        "macrogol",
+        "dióxido de titânio",
+        "talco",
+        "corante eritrosina",
+        "água purificada"
+      ]
+    },
+    "indicacoes": [
+      "Sinusites bacterianas",
+      "Infecções do trato respiratório superior e inferior",
+      "Otite média",
+      "Infecções da pele e tecidos moles",
+      "Infecções ósseas",
+      "Infecções do trato geniturinário",
+      "Infecções dentárias"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade às cefalosporinas",
+      "História de reação alérgica grave a antibióticos beta-lactâmicos"
+    ],
+    "advertencias_precaucoes": [
+      "Pode causar reação cruzada em alérgicos a penicilinas",
+      "Usar com cautela em insuficiência renal",
+      "Pode causar colite associada a antibióticos"
+    ],
+    "posologia": {
+      "adultos": "500 mg a cada 6 a 12 horas",
+      "criancas": "25 a 50 mg/kg/dia divididos em doses a cada 6 a 12 horas"
+    },
+    "reações_adversas": {
+      "comuns": ["náusea", "diarreia", "dor abdominal"],
+      "incomuns": ["rash cutâneo", "urticária"],
+      "raras": ["anafilaxia", "neutropenia transitória", "hepatite"]
+    },
+    "superdose": {
+      "sintomas": ["náusea", "vômito", "diarreia", "hematuria"],
+      "tratamento": "suporte sintomático; hemodiálise pode auxiliar"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "não informado",
+    "responsavel_tecnico": "não informado",
+    "sac": "não informado",
+    "tarja": "Venda sob prescrição médica"
+  },
+  {
+    "medicamento": "Bactrim",
+    "fabricante": "Farmoquímica S/A",
+    "forma_farmaceutica": "Comprimido",
+    "apresentacao": "400 mg de sulfametoxazol + 80 mg de trimetoprima - Caixa com 20 comprimidos",
+    "uso": ["Adulto", "Pediátrico"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": ["sulfametoxazol 400 mg", "trimetoprima 80 mg"],
+      "excipientes": [
+        "amido",
+        "povidona",
+        "estearato de magnésio",
+        "dióxido de silício coloidal",
+        "talco",
+        "lactose monoidratada"
+      ]
+    },
+    "indicacoes": [
+      "Tratamento de infecções bacterianas do trato respiratório",
+      "Infecções urinárias",
+      "Infecções gastrintestinais",
+      "Pneumonia por Pneumocystis jirovecii",
+      "Profilaxia de infecções em pacientes imunocomprometidos"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade a sulfonamidas ou trimetoprima",
+      "Gravidez (terceiro trimestre)",
+      "Lactação",
+      "Insuficiência hepática grave",
+      "Doença renal grave sem monitoramento adequado",
+      "Deficiência de glicose-6-fosfato desidrogenase (G6PD)"
+    ],
+    "advertencias_precaucoes": [
+      "Risco de reações cutâneas graves (Stevens-Johnson, necrólise epidérmica tóxica)",
+      "Monitorar função renal e hepática durante o tratamento",
+      "Pode causar discrasias sanguíneas",
+      "Uso cauteloso em idosos",
+      "Categoria de risco na gravidez: D"
+    ],
+    "posologia": {
+      "adultos": "1 comprimido a cada 12 horas",
+      "criancas": "20 a 40 mg/kg/dia de sulfametoxazol + 4 a 8 mg/kg/dia de trimetoprima, divididos em 2 doses"
+    },
+    "reações_adversas": {
+      "comuns": ["náusea", "vômito", "erupção cutânea", "perda de apetite"],
+      "incomuns": ["diarreia", "cefaleia", "trombocitopenia", "neutropenia"],
+      "raras": [
+        "síndrome de Stevens-Johnson",
+        "necrólise epidérmica tóxica",
+        "hepatite",
+        "anafilaxia"
+      ]
+    },
+    "superdose": {
+      "sintomas": [
+        "náusea",
+        "vômito",
+        "tontura",
+        "confusão",
+        "cristalúria",
+        "hematúria"
+      ],
+      "tratamento": "Lavagem gástrica, reposição hídrica, monitoramento eletrolítico e hemodiálise parcial"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "1.0298.0045",
+    "responsavel_tecnico": "Não informado na bula",
+    "sac": "0800 282 5555",
+    "tarja": "Venda sob prescrição"
+  },
+  {
+    "medicamento": "Macrodantina",
+    "fabricante": "Cosmed Indústria de Cosméticos e Medicamentos S.A.",
+    "forma_farmaceutica": "Cápsula dura",
+    "apresentacao": "100 mg - Embalagens com 28, 40 ou 144 cápsulas",
+    "uso": ["Adulto"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "nitrofurantoína 100 mg",
+      "excipientes": ["amido", "talco", "lactose monoidratada"]
+    },
+    "indicacoes": [
+      "Tratamento de infecções do trato urinário (cistite, pielite, pielocistite, pielonefrite) causadas por bactérias sensíveis"
+    ],
+    "contraindicacoes": [
+      "Anúria, oligúria ou insuficiência renal (depuração de creatinina < 60 mL/min/1,73m²)",
+      "Últimas semanas da gestação (38-42 semanas)",
+      "Crianças com menos de 1 mês de idade",
+      "Hipersensibilidade à nitrofurantoína ou excipientes",
+      "Histórico de doença hepática tóxica associada à nitrofurantoína"
+    ],
+    "advertencias_precaucoes": [
+      "Risco de eventos pulmonares agudos e crônicos (pneumonia intersticial, fibrose pulmonar)",
+      "Monitorar função hepática (raro risco de hepatite e necrose hepática)",
+      "Pode causar anemia hemolítica em crianças e gestantes a termo",
+      "Categoria de risco na gravidez: B",
+      "Contém lactose monoidratada"
+    ],
+    "posologia": {
+      "adultos": {
+        "tratamento": "100 mg a cada 6 horas por 7 a 10 dias",
+        "uso_prolongado": "100 mg à noite"
+      }
+    },
+    "reações_adversas": {
+      "comuns": [
+        "cefaleia",
+        "náusea",
+        "vômito",
+        "diarreia",
+        "dor epigástrica",
+        "anorexia",
+        "pneumonia intersticial"
+      ],
+      "incomuns": [
+        "polineuropatia induzida",
+        "anemia megaloblástica",
+        "leucopenia",
+        "flatulência"
+      ],
+      "raras": [
+        "fibrose pulmonar",
+        "necrose hepática",
+        "icterícia",
+        "dermatite alérgica",
+        "reação anafilática",
+        "anemia hemolítica",
+        "alopecia",
+        "neurite óptica",
+        "síndrome de Stevens-Johnson"
+      ]
+    },
+    "superdose": {
+      "sintomas": ["vômitos"],
+      "tratamento": "Indução de êmese, suporte, hidratação e hemodiálise"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz",
+      "validade": "24 meses"
+    },
+    "registro": "1.7817.0787",
+    "responsavel_tecnico": "Não informado na bula",
+    "sac": "0800 722 6001",
+    "tarja": "Venda sob prescrição com retenção de receita"
+  },
+  {
+    "medicamento": "Sepurin",
+    "fabricante": "Laboratório Gross S.A.",
+    "forma_farmaceutica": "Drágea",
+    "apresentacao": "120 mg de metenamina + 20 mg de cloreto de metiltionínio - Caixa com 20 drágeas",
+    "uso": ["Adulto", "Pediátrico acima de 12 anos"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": [
+        "metenamina 120 mg",
+        "cloreto de metiltionínio 20 mg"
+      ],
+      "excipientes": [
+        "celulose microcristalina",
+        "estearato de magnésio",
+        "talco",
+        "carbonato de cálcio",
+        "goma laca",
+        "sacarose",
+        "goma arábica",
+        "corante azul brilhante",
+        "corante amarelo tartrazina",
+        "cera branca de abelha",
+        "cera de carnaúba",
+        "álcool etílico",
+        "benzina",
+        "água de osmose reversa"
+      ]
+    },
+    "indicacoes": [
+      "Tratamento de cistite (exceto Proteus spp. e Pseudomonas spp.)",
+      "Profilaxia de colonização/infecção vesical em cateterização vesical",
+      "Profilaxia de infecções vesicais recorrentes"
+    ],
+    "contraindicacoes": [
+      "Hipersensibilidade aos componentes",
+      "Insuficiência hepática",
+      "Insuficiência renal moderada a grave",
+      "Pacientes com metemoglobinemia",
+      "Menores de 12 anos",
+      "Gravidez (Categoria X)",
+      "Síndrome de má-absorção de glicose-galactose"
+    ],
+    "advertencias_precaucoes": [
+      "Atua apenas na urina, não indicado para infecções sistêmicas",
+      "Evitar consumo excessivo de líquidos e alimentos que alcalinizem a urina",
+      "Pode causar coloração azulada da urina e fezes",
+      "Contém corante amarelo de tartrazina (risco de reações alérgicas, especialmente em asmáticos)",
+      "Categoria de risco na gravidez: X",
+      "Usar com cautela em diabéticos"
+    ],
+    "posologia": {
+      "cistite": "2 drágeas 3 a 4 vezes ao dia até início da terapia antibiótica",
+      "profilaxia_cateter": "2 drágeas 3 a 4 vezes ao dia durante o tempo de permanência do cateter",
+      "profilaxia_recorrente": "2 drágeas 3 a 4 vezes ao dia conforme avaliação médica"
+    },
+    "reações_adversas": {
+      "comuns": ["náusea", "vômito", "dor abdominal leve"],
+      "incomuns": ["tontura", "cefaleia", "reações alérgicas leves"],
+      "raras": ["metemoglobinemia", "reação alérgica grave"]
+    },
+    "superdose": {
+      "sintomas": ["náusea", "vômito", "dor abdominal"],
+      "tratamento": "Suporte clínico e sintomático"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz e umidade",
+      "validade": "24 meses"
+    },
+    "registro": "Não informado na bula",
+    "responsavel_tecnico": "Não informado na bula",
+    "sac": "Não informado",
+    "tarja": "Venda sob prescrição"
+  },
+  {
+    "medicamento": "Aerolin",
+    "fabricante": "GlaxoSmithKline Brasil Ltda.",
+    "forma_farmaceutica": "Spray",
+    "apresentacao": "100mcg/dose - Frasco com 200 doses",
+    "uso": ["Adulto", "Pediátrico"],
+    "via_administracao": "Inalatória",
+    "composicao": {
+      "principio_ativo": "sulfato de salbutamol 120,5 mcg (equivalente a 100 mcg de salbutamol)",
+      "excipientes": ["norflurano (HFA134a)"]
+    },
+    "indicacoes": [
+      "Controle e prevenção da asma brônquica",
+      "Tratamento de bronquite crônica e enfisema com obstrução reversível das vias aéreas"
+    ]
+  },
+  {
+    "medicamento": "AAS Infantil",
+    "fabricante": "Cosmed Indústria de Cosméticos e Medicamentos S.A.",
+    "forma_farmaceutica": "Comprimido",
+    "apresentacao": "100mg - Caixa com 30, 120 ou 200 comprimidos",
+    "uso": ["Pediátrico"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "ácido acetilsalicílico 100mg",
+      "excipientes": [
+        "vanilina",
+        "sacarina sódica di-hidratada",
+        "lactose monoidratada",
+        "dióxido de silício",
+        "amido de milho",
+        "corante amarelo de tartrazina",
+        "laca amarela nº 6"
+      ]
+    },
+    "indicacoes": [
+      "Alívio de dores musculares e articulares",
+      "Tratamento de artrite reumatoide, osteoartrite e espondilite anquilosante",
+      "Inibição da agregação plaquetária"
+    ]
+  },
+  {
+    "medicamento": "AAS Protect",
+    "fabricante": "Cosmed Indústria de Cosméticos e Medicamentos S.A.",
+    "forma_farmaceutica": "Comprimido revestido de liberação entérica",
+    "apresentacao": "100mg - Caixa com 30 comprimidos",
+    "uso": ["Adulto"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "ácido acetilsalicílico 100mg",
+      "excipientes": [
+        "celulose microcristalina",
+        "lactose monoidratada",
+        "amido de milho",
+        "dióxido de silício",
+        "hipromelose",
+        "macrogol 400",
+        "ácido cítrico",
+        "dióxido de titânio",
+        "Eudragit L-30D",
+        "polissorbato 80",
+        "talco",
+        "trietilcitrato",
+        "simeticona"
+      ]
+    },
+    "indicacoes": [
+      "Reduz risco de mortalidade em suspeita de infarto agudo do miocárdio",
+      "Prevenção secundária de acidente vascular cerebral",
+      "Redução do risco de angina pectoris estável e instável",
+      "Prevenção de tromboembolismo pós-cirúrgico",
+      "Profilaxia de trombose venosa profunda e embolia pulmonar"
+    ]
+  },
+  {
+    "medicamento": "Glifage XR",
+    "fabricante": "Merck S/A",
+    "forma_farmaceutica": "Comprimido de liberação prolongada",
+    "apresentacao": [
+      "500mg - Caixa com 30 comprimidos",
+      "750mg - Caixa com 10 ou 30 comprimidos",
+      "850mg - Caixa com 10 ou 30 comprimidos",
+      "1g - Caixa com 10 ou 30 comprimidos"
+    ],
+    "uso": ["Adulto"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "500mg": {
+        "principio_ativo": "cloridrato de metformina 500mg",
+        "excipientes": [
+          "estearato de magnésio",
+          "carmelose sódica",
+          "hipromelose"
+        ]
+      },
+      "750mg": {
+        "principio_ativo": "cloridrato de metformina 750mg",
+        "excipientes": [
+          "estearato de magnésio",
+          "carmelose sódica",
+          "hipromelose"
+        ]
+      },
+      "850mg": {
+        "principio_ativo": "cloridrato de metformina 850mg",
+        "excipientes": [
+          "estearato de magnésio",
+          "carmelose sódica",
+          "hipromelose"
+        ]
+      },
+      "1g": {
+        "principio_ativo": "cloridrato de metformina 1g",
+        "excipientes": [
+          "estearato de magnésio",
+          "carmelose sódica",
+          "hipromelose"
+        ]
+      }
+    },
+    "indicacoes": [
+      "Tratamento de diabetes mellitus tipo 2 (adultos)",
+      "Complemento à insulinoterapia em diabetes tipo 1",
+      "Prevenção de diabetes mellitus tipo 2 em pacientes com sobrepeso e pré-diabetes",
+      "Tratamento da Síndrome dos Ovários Policísticos"
+    ]
+  },
+  {
+    "medicamento": "Macrodantina",
+    "fabricante": "Cosmed Indústria de Cosméticos e Medicamentos S.A.",
+    "forma_farmaceutica": "Cápsula dura",
+    "apresentacao": "100 mg - Embalagens com 28, 40 ou 144 cápsulas",
+    "uso": ["Adulto"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "principio_ativo": "nitrofurantoína 100 mg",
+      "excipientes": ["amido", "talco", "lactose monoidratada"]
+    },
+    "indicacoes": [
+      "Tratamento de infecções do trato urinário (cistite, pielite, pielocistite, pielonefrite) causadas por bactérias sensíveis"
+    ],
+    "contraindicacoes": [
+      "Anúria, oligúria ou insuficiência renal (depuração de creatinina < 60 mL/min/1,73m²)",
+      "Últimas semanas da gestação (38-42 semanas)",
+      "Crianças com menos de 1 mês de idade",
+      "Hipersensibilidade à nitrofurantoína ou excipientes",
+      "Histórico de doença hepática tóxica associada à nitrofurantoína"
+    ],
+    "advertencias_precaucoes": [
+      "Risco de eventos pulmonares agudos e crônicos (pneumonia intersticial, fibrose pulmonar)",
+      "Monitorar função hepática (raro risco de hepatite e necrose hepática)",
+      "Pode causar anemia hemolítica em crianças e gestantes a termo",
+      "Categoria de risco na gravidez: B",
+      "Contém lactose monoidratada"
+    ],
+    "posologia": {
+      "adultos": {
+        "tratamento": "100 mg a cada 6 horas por 7 a 10 dias",
+        "uso_prolongado": "100 mg à noite"
+      }
+    },
+    "reações_adversas": {
+      "comuns": [
+        "cefaleia",
+        "náusea",
+        "vômito",
+        "diarreia",
+        "dor epigástrica",
+        "anorexia",
+        "pneumonia intersticial"
+      ],
+      "incomuns": [
+        "polineuropatia induzida",
+        "anemia megaloblástica",
+        "leucopenia",
+        "flatulência"
+      ],
+      "raras": [
+        "fibrose pulmonar",
+        "necrose hepática",
+        "icterícia",
+        "dermatite alérgica",
+        "reação anafilática",
+        "anemia hemolítica",
+        "alopecia",
+        "neurite óptica",
+        "síndrome de Stevens-Johnson"
+      ]
+    },
+    "superdose": {
+      "sintomas": ["vômitos"],
+      "tratamento": "Indução de êmese, suporte, hidratação e hemodiálise"
+    },
+    "armazenamento": {
+      "temperatura": "15ºC a 30ºC",
+      "protecao": "luz",
+      "validade": "24 meses"
+    },
+    "registro": "1.7817.0787",
+    "responsavel_tecnico": "Não informado na bula",
+    "sac": "0800 722 6001",
+    "tarja": "Venda sob prescrição com retenção de receita"
+  },
+  {
+    "medicamento": "Hidroclorotiazida",
+    "fabricante": "CIMED INDÚSTRIA S.A.",
+    "forma_farmaceutica": "Comprimido",
+    "apresentacao": [
+      "25mg - Caixa com 30 ou 500 comprimidos",
+      "50mg - Caixa com 20 comprimidos"
+    ],
+    "uso": ["Adulto", "Pediátrico"],
+    "via_administracao": "Oral",
+    "composicao": {
+      "25mg": {
+        "principio_ativo": "hidroclorotiazida 25mg",
+        "excipientes": [
+          "laurilsulfato de sódio",
+          "croscarmelose sódica",
+          "amidoglicolato de sódio",
+          "lactose monoidratada",
+          "celulose microcristalina",
+          "estearato de magnésio",
+          "dióxido de silício"
+        ]
+      },
+      "50mg": {
+        "principio_ativo": "hidroclorotiazida 50mg",
+        "excipientes": [
+          "laurilsulfato de sódio",
+          "croscarmelose sódica",
+          "amidoglicolato de sódio",
+          "lactose monoidratada",
+          "celulose microcristalina",
+          "estearato de magnésio",
+          "dióxido de silício"
+        ]
+      }
+    },
+    "indicacoes": [
+      "Tratamento da hipertensão arterial",
+      "Tratamento de edemas associados a insuficiência cardíaca, cirrose hepática e terapia com corticosteroides ou estrógenos",
+      "Edema por disfunção renal (síndrome nefrótica, glomerulonefrite aguda, insuficiência renal crônica)"
+    ]
+  }
+]
