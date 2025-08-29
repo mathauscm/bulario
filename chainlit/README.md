@@ -2,17 +2,17 @@
 
 Um chatbot inteligente especializado em informações sobre medicamentos, construído com Chainlit e OpenAI, baseado no projeto MIA original.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - 💊 **Consulta de Medicamentos**: Informações detalhadas sobre medicamentos específicos
-- 🧪 **Composição Detalhada**: Princípios ativos e excipientes
-- 📋 **Indicações Terapêuticas**: Para que serve cada medicamento  
-- ⚠️ **Contraindicações**: Quando não usar o medicamento
-- 💉 **Posologia**: Como administrar corretamente
-- 🩺 **Reações Adversas**: Efeitos colaterais organizados por frequência
-- 📊 **Informações Técnicas**: Armazenamento, validade e dados regulatórios
+- **Composição Detalhada**: Princípios ativos e excipientes
+- **Indicações Terapêuticas**: Para que serve cada medicamento  
+- **Contraindicações**: Quando não usar o medicamento
+- **Posologia**: Como administrar corretamente
+- **Reações Adversas**: Efeitos colaterais organizados por frequência
+- **Informações Técnicas**: Armazenamento, validade e dados regulatórios
 
-## 🚀 Como usar
+## Como usar
 
 ### 1. Configuração do Ambiente
 
@@ -85,13 +85,11 @@ chainlit/
 
 ## 📝 Diferenças do Projeto MIA Original
 
-- ✅ Usa OpenAI ao invés do framework MIA
-- ✅ Estrutura mais simples e direta
-- ✅ Mantém a funcionalidade de consulta de medicamentos
-- ✅ Interface amigável com Chainlit
-- ✅ Configuração mais fácil
+- Usa OpenAI ao invés do framework MIA
+- Estrutura mais simples e direta
+- Mantém a funcionalidade de consulta de medicamentos
 
-## 🔄 Migração do Projeto MIA
+## Migração do Projeto MIA
 
 Este projeto foi adaptado de `/home/mathaus/projects/mia/projects/meu_chatbot`, mantendo:
 

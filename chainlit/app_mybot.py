@@ -13,8 +13,7 @@ client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 # Mensagem de apresentação do chatbot de medicamentos
 introduction = (
     "🤖 **Bem-vindo ao Chatbot de Medicamentos!** 💊\n\n"
-    "Sou seu assistente especializado em informações sobre medicamentos, "
-    "alimentado pela inteligência artificial da OpenAI!\n\n"
+    "Sou seu assistente especializado em informações sobre medicamentos. "
     "**Com este chatbot, você pode:**\n"
     "- **Consultar medicamentos**: Informações detalhadas incluindo composição completa\n"
     "- **Composição detalhada**: Princípios ativos e lista completa de excipientes\n"
@@ -30,7 +29,7 @@ introduction = (
     "- *\"Quais são os excipientes da macrodantina?\"*\n\n"
     " **Importante**: As informações fornecidas são apenas para fins educativos. "
     "Sempre consulte um profissional de saúde antes de usar qualquer medicamento.\n\n"
-    "Digite sua pergunta sobre medicamentos para começar! 💬"
+    "Digite sua pergunta sobre medicamentos para começar!"
 )
 
 # Instruções do sistema para o comportamento da IA
@@ -114,6 +113,6 @@ async def main(message: cl.Message):
         
     except Exception as e:
         await cl.Message(
-            content=f"❌ Erro ao processar sua solicitação: {str(e)}\n\n"
+            content=f"Erro ao processar sua solicitação: {str(e)}\n\n"
                    "Tente novamente ou reformule sua pergunta."
         ).send()
