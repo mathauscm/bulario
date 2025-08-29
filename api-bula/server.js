@@ -212,11 +212,11 @@ async function startServer() {
   await loadBulasData();
   
   app.listen(PORT, () => {
-    console.log(`🚀 API de Bulas rodando na porta ${PORT}`);
-    console.log(`📋 Health check: http://localhost:${PORT}/health`);
-    console.log(`🔍 Buscar todas as bulas: http://localhost:${PORT}/api/bulas`);
-    console.log(`💊 Buscar medicamentos: http://localhost:${PORT}/api/medicamentos`);
-    console.log(`🔍 Busca geral: http://localhost:${PORT}/api/search?q=ibuprofeno`);
+    console.log(`API de Bulas rodando na porta ${PORT}`);
+    console.log(`Health check: http://localhost:${PORT}/health`);
+    console.log(`Buscar todas as bulas: http://localhost:${PORT}/api/bulas`);
+    console.log(`Buscar medicamentos: http://localhost:${PORT}/api/medicamentos`);
+    console.log(`Busca geral: http://localhost:${PORT}/api/search?q=ibuprofeno`);
   });
 }
 
